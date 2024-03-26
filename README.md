@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi! My name is Michael. I'm 27 years old and finishing up a decade of service in the nuclear navy. Right now I'm a teacher of prospective staff instructors at the Naval Nuclear Power Training Unit (NPTU) - Charleston. I'm also a remote software engineering undergraduate student at Pennsylvania State University. Conveniently, I finish up both of those chapters of my life in the spring of 2025.
+Hi! My name is Michael, and I'm finishing up a decade of service in the nuclear navy this year. Right now I'm a teacher of prospective staff instructors at the Naval Nuclear Power Training Unit (NPTU) - Charleston. I'm also a remote software engineering undergraduate student at Pennsylvania State University. Conveniently, I finish up both of those chapters of my life in the spring of 2025.
 
 After that, I plan on pursuing graduate school using my G.I. Bill. I'm deeply interested in the fields of dependable computing and computer architecture, and how we can make computers both more reliable for use in critical applications.
 
