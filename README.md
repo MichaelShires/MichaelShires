@@ -2,7 +2,7 @@
 
 Hi! My name is Michael, and I'm finishing up a decade of service in the nuclear navy this year. Right now I'm a teacher of prospective staff instructors at the Naval Nuclear Power Training Unit (NPTU) - Charleston. I'm also a remote software engineering undergraduate student at Pennsylvania State University. Conveniently, I finish up both of those chapters of my life in the spring of 2025.
 
-After that, I plan on pursuing graduate school using my G.I. Bill. I'm deeply interested in the fields of dependable computing and computer architecture, and how we can make computers both more reliable for use in critical applications.
+After that, I plan on pursuing graduate school using my G.I. Bill. I'm deeply interested in the fields of dependable computing and computer architecture, and how we can make digital systems more reliable for use in critical applications.
 
 More information about myself can be found at my [website](https://www.mshires.net) along with a blog where I post whatever comes across my mind.
 
