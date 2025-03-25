@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi! My name is Michael, and I'm finishing up a decade of service in the nuclear navy this year. Right now I'm a teacher of prospective staff instructors at the Naval Nuclear Power Training Unit (NPTU) - Charleston. I'm also a remote software engineering undergraduate student at Pennsylvania State University. Conveniently, I finish up both of those chapters of my life in the spring of 2025.
+Hi! My name is Michael, and I'm currently a SkillBridge intern with [Context Ventures](https://contextvc.com). Before this, I spent ten years to the day in the nuclear submarine community. I'm also a senior at Penn State University - World Campus, pursuing a B.S. software engineering.
 
-After that, I plan on pursuing graduate school using my G.I. Bill. I'm deeply interested in the fields of dependable computing and computer architecture, and how we can make digital systems more reliable for use in critical applications.
+In the fall, I will be attending the University of Virginia for an M.S. in Computer Engineering and MBA dual masters program, to graduate in spring of 2028. I'm interested in open-source software, dependable computing, hardware/software co-design and building useful tools.
 
 More information about myself can be found at my [website](https://www.mshires.net) along with a blog where I post whatever comes across my mind.
 
