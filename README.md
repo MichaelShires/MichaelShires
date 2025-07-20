@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi! My name is Michael, and I'm currently a SkillBridge intern with [Context Ventures](https://contextvc.com). Before this, I spent ten years as an enlisted sailor in the nuclear submarine community. I'm also a senior at Penn State University - World Campus, pursuing a B.S. software engineering.
+Hi! My name is Michael, and I'm currently attending the University of Virginia as a graduate student. I'm pursuing an M.S. in Computer Engineering, and a Masters of Business Administration (MBA) from the Darden School of Business, with an intended graduation date of spring 2028. I'm interested in open source software, dependable computing, hardware/software co-design and building useful tools.
 
-In the fall, I will be attending the University of Virginia for an M.S. in Computer Engineering and MBA dual masters program, to graduate in spring of 2028. I'm interested in open source software, dependable computing, hardware/software co-design and building useful tools.
+Before this, I spent ten years as an enlisted sailor in the nuclear submarine community. In 2025, I graduated from Penn State - World Campus with a B.S. in Software Engineering.
 
 More information about myself can be found at my [website](https://www.mshires.net) along with a blog where I post whatever comes across my mind.
 
